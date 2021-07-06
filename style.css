@@ -1,0 +1,48 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+
+
+}
+p{
+    text-align: justify;
+}
+.orange-color{
+    color: orange;
+}
+.food-order{
+    display: flex;
+    background-image: url(images/Frame\ 59.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+
+}
+.half-width{
+    padding: 10px;
+    width: 50%;
+    padding-left: 5%;
+    border:1px solid;
+    
+
+}
+
+.half-width img{
+  width: 60%;
+}
+
+
+.food-orderLink{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 30px;
+    background-image: linear-gradient(orange,salmon);
+    color: white;
+    margin-top: 15px;
+
+
+}
