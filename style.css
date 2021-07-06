@@ -115,5 +115,20 @@ p{
 
 
 }
+.review-section{
+    margin-top: 50px;
+    text-align: center;
+}
+.text-area{
+    width: 50%;
+    text-align: center;
+    background-color: cornsilk;
+    color: blue;
+    box-shadow: 10px 15px 100px gray;
+    font-size: 30px;
+    
+
+}
+
 
  
